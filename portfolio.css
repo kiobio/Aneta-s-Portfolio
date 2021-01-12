@@ -1,0 +1,208 @@
+html, section{
+    box-sizing: border-box;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+.logo{
+    width: 120px;
+}
+.navigation{
+    margin-top: -100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: row;
+    background-color: #440e62;
+    justify-content: flex-end;
+    justify-content: space-around;
+    padding:35px;
+    text-transform:uppercase;
+  
+}
+a{
+    text-decoration: none;
+    color: #52e7de;    
+}
+h1 p{
+    text-align: center;
+    margin: -1Px;
+}
+.vortex{
+    margin-top:-100px;
+    margin-left: 0;
+    max-width: 100%;
+    z-index: -1;
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 300px;
+    z-index: 1; 
+    margin:-500px;
+    color: #52e7de;
+}
+.introduction{
+    text-align: center;
+    padding-top: 800px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 140%;
+}
+h1 strong{
+    text-decoration: underline;
+    color: #f398e5;
+    font-size: 120%;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+      
+}
+.circle{
+    background-color: white;
+    width:180px;
+    height:180px;
+    border-radius: 50%;
+    margin:30px;
+}
+.DD{
+    margin-right: 20px;
+    font-size: 130%;
+    font-weight: 700;
+    color: #76f7ef;   
+}
+.DD_text{
+    margin-left: 50px;
+    max-width: 50%;
+    text-align: center;
+    color: #f3a2e1;
+}
+.background{
+    max-width:100%;
+    height: 400px;
+    background-color: #2b0129;
+    margin-top: -450px;
+    padding-bottom: 50px;;
+}
+h2{
+    font-size: 200%;
+    text-align: center;
+    margin-top: -600px;
+    text-transform: uppercase;
+    color: #61225a;
+
+    
+}
+.My_skills{
+    display: flex;
+    flex-direction: column;   
+    margin-top:200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    
+}
+.square{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin:10px;
+    
+}
+.grey_square{
+    width:150px;
+    height:40px;
+    background-color: black;
+    display: flex;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 0px;
+    color: #a7a7a7; 
+}
+.green_square{
+    background-color: #61225a;
+    height:40px;
+}
+.light_square{
+    background-color: black;
+    height:40px;
+    text-align: right;
+    color: #a7a7a7;
+}
+.Green_one{
+    width: 450px;
+}
+.light_one{
+    width: 50px;
+}
+.Green_two{
+    width: 450px;
+}
+.light_two{
+    width: 50px;
+}
+.Green_three{
+    width:400px;
+}
+.light_three{
+    width:100px;
+}
+.Green_four{
+    width:250px;
+}
+.light_four{
+    width:250px;
+}
+.Green_five{
+    width:300px;
+}
+.light_five{
+    width:200px;
+}
+.Green_six{
+    width:350px;
+}
+.light_six{
+    width:150px;
+}
+.Green_seven{
+    width:200px;
+}
+.light_seven{
+    width:300px;
+}
+.Green_eight{
+    width:50px;
+}
+.light_eight{
+    width:450px;
+}
+.Green_nine{
+    width:0px;
+}
+.light_nine{
+    width: 500px;
+}
+h3{
+    margin-top: 800px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 200%;    
+}
+.three{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.pic{
+    background-color: #52e7de;
+    width: 40px;
+    height: 40px;
+    margin:10px;
+}
